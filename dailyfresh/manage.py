@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 import os
 import sys
-# test
 
 
 # test_meger
