@@ -3,7 +3,7 @@ import os
 import sys
 
 
-# test_meger
+# test_meger-upstream
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "dailyfresh.settings")
 
